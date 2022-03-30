@@ -127,3 +127,16 @@ C:\Users\FinHe\OneDrive\work\CollegeWork\ComputerScience\NEA A Level\Project\Pro
 C:\Users\FinHe\OneDrive\work\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen (Final)\NoisemapGen\obj\Debug\NoisemapGen.exe
 C:\Users\FinHe\OneDrive\work\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen (Final)\NoisemapGen\obj\Debug\NoisemapGen.xml
 C:\Users\FinHe\OneDrive\work\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen (Final)\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.AssemblyReference.cache
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.SuggestedBindingRedirects.cache
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.CanvasForm.resources
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\FinHe\Documents\GitHub\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.xml

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "345bb633-d743-452b-a857-1b9a201a25a0": {
+      "ProjectGuid": "345bb633-d743-452b-a857-1b9a201a25a0",
+      "DisplayName": "NoisemapGen",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

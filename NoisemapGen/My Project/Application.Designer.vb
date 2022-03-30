@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.NoisemapGen.Form1
+            Me.MainForm = Global.NoisemapGen.CanvasForm
         End Sub
     End Class
 End Namespace
