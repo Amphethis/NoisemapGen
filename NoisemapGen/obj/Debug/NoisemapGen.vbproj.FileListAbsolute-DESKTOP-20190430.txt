@@ -1,0 +1,108 @@
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Canvas.resources
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Canvas.resources
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Canvas.resources
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Canvas.resources
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\(2020-02-12 SmoothNoise) NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.Canvas.resources
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.Canvas.resources
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen Backup Restore\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Canvas.resources
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\10587670.BCG\OneDrive\CollegeWork\ComputerScience\NEA A Level\backups\NoisemapGen Backups\(2020-03-02 Cosine Interpolation) NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Canvas.resources
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\10587670\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe.config
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.exe
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.pdb
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\bin\Debug\NoisemapGen.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbprojAssemblyReference.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.Resources.resources
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.GenerateResource.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.vbproj.CoreCompileInputs.cache
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.exe
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.xml
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.pdb
+C:\Users\FinHe\OneDrive\CollegeWork\ComputerScience\NEA A Level\Project\Programs\NoisemapGen\NoisemapGen\obj\Debug\NoisemapGen.CanvasForm.resources
